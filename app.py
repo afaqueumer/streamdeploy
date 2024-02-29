@@ -2,8 +2,9 @@
 import streamlit as st
 
 
-st.title("Hello Streamlit!")
+st.title("Hello Streamlit! ⚡")
 
-st.header("This is version 2 - with Actions 🎉")
+st.header("This is version 3 - with Actions 🎉")
 
+st.write("🔖")
 

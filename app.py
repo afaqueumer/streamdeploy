@@ -3,6 +3,7 @@ import streamlit as st
 
 
 st.title("Hello Streamlit!")
-st.write("This is version 1 🎉")
+
+st.header("This is version 2 - with Actions 🎉")
 
 
